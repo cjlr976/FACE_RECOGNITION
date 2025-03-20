@@ -1,0 +1,2 @@
+Add faces of people you want to detect
+Image is clear and face is recognizable
